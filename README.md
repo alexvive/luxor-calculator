@@ -7,6 +7,7 @@ A sleek, premium-themed web calculator with a gold-accented dark interface. Buil
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+![Preview](preview.png)
 ## ✨ Features
 - 💎 **Premium "Aurum" UI** – dark theme with glowing gold accents
 - 🔢 **Core Operations** – `+`, `-`, `×`, `÷`, `%`
